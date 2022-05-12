@@ -1,5 +1,5 @@
 [package]
-name = "nesemu"
+name = "nesremu"
 version = "0.1.0"
 edition = "2021"
 
